@@ -1,0 +1,41 @@
+Andy Shimmin
+Programming and Electronics
+November 8th, 2015
+
+Introduction
+For my final project, I want to focus on encompassing areas of programming and electronics I find interesting. By working with something I enjoy I will be able to stay motivated and refine this project down to something I am proud of. Working with LED’s, and gathering data from an online server, I hope to gain some practical knowledge and apply it to a contrasting fine art realm. 
+Exploiting the transparent properties of thrown porcelain, I hope to create a cup with varying thickness and thinness of the walls -- similar to the image on the left, but not so extreme. With this variation of width, I will place RGB LED’s in a matrix around the cup, having their light shine through the thin points. I want color to be a factor in this piece so the LED’s nest the lip of the cup will have one color, and the bottom LED’s will have a different color. The LED’s in between top and bottom will gradate together  and add variety as well as an extra challenge in term of coding. 
+With a small arduino board and a battery, I plan on writing a code that calls upon a specific library from Twitter that lowers the level of lights and raises it based off of which library is called. Finally, I want it to double as a cup, or a plant holder. Any form of liquid retention is a success, if not, the cup becomes a sculpture, with no actual function.
+
+Challenges
+The biggest challenge for this piece is going to be getting the electronics and ceramic to cooperate with each other. Being such an opaque medium, it might take many iterations to get the cup to have the correct thinness and to hold enough space for all of the wiring and the actual water holding apparatus. Coding is obviously going to be a challenge as well. Not knowing much about LED’s or server informational retrieval, a lot of my studio time in class might be creating mini-projects for myself in order to understand the concepts of analog lighting and other things I don’t know know what to know yet.
+
+
+
+
+
+
+Materials
+A handful of RGB LED’s
+- Or perhaps LED strips? You mentioned some alternative in class but I forgot. 
+     - Corresponding wires for LED’s
+     - Small battery
+     - Small Arduino board
+     - Small Nalgene bottle
+     - Glue?
+     - A bag of porcelain clay
+     - Time for clay to fire in the kiln
+     - etc.
+
+Schedule
+
+Week 1:
+	Discuss all the parts needed to order. Order said parts. During that time, study up on LED spectrum testing and basics of library retrieval.
+Week 2:
+	Prototype LED’s on a solo cup or something. Just focus on spectrum, nott y axis variation.
+Week 3:
+	Throw 3-4 iterations of the porcelain cup. Work on library integration into prototype.
+Week 4:
+	Finish up coding and prototyping for LED’s. testing on ceramic cup. 
+Week 5:
+	Test more and refine. Present.
